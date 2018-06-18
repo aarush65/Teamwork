@@ -1,0 +1,3 @@
+	filename = ‘versionControl.txt’ with
+open (filename, ‘a’ ) as file_object:
+	file_object.write(“\nIf I have the entire history of the file. I would be able to find more chances to find my mistakes and no make them again. Also if we even make the mistake again, we would know how to fit the mistake a immediately. I would save the program when I make a decent sized changed, because it would be a back up if something bad happed like if the power outage or if the laptop suddenly restarted. It is important to commit messages to have good connection the program. ”)
